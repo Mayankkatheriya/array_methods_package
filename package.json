@@ -1,0 +1,16 @@
+{
+  "name": "array_methods_by_mayank",
+  "version": "1.1.0",
+  "description": "Methods to apply on Array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Array",
+    "sum",
+    "find"
+  ],
+  "author": "Mayank Gupta",
+  "license": "ISC"
+}

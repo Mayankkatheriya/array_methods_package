@@ -6,7 +6,7 @@ A utility package providing various higher-order functions for working with arra
 
 ```bash
 npm install array_methods_by_mayank
-
+---
 ## Usage
 
 ```bash

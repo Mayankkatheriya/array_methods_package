@@ -11,7 +11,7 @@ npm install array_methods_by_mayank
 
 ## Usage
 
-```bash
+```js
 const arrayMethods = require('array-methods-package');
 
 // Example usage of available functions:

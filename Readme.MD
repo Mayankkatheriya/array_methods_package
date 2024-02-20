@@ -2,6 +2,12 @@
 
 A utility package providing various higher-order functions for working with arrays in JavaScript.
 
+## Installation
+
+```bash
+npm install array_methods_10
+```
+
 
 ## Usage
 

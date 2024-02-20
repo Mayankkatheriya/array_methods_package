@@ -1,6 +1,6 @@
 {
-  "name": "array_methods_by_mayank",
-  "version": "1.1.0",
+  "name": "array_methods_10",
+  "version": "1.1.2",
   "description": "Methods to apply on Array",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,13 @@
     "find"
   ],
   "author": "Mayank Gupta",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayankkatheriya/array_methods_package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mayankkatheriya/array_methods_package/issues"
+  },
+  "homepage": "https://github.com/Mayankkatheriya/array_methods_package#readme"
 }

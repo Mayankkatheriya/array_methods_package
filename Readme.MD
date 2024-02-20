@@ -2,13 +2,14 @@
 
 A utility package providing various higher-order functions for working with arrays in JavaScript.
 
-1. Installation
+## Installation
 
 ```bash
 npm install array_methods_by_mayank
+```
 
 
-2. Usage
+## Usage
 
 ```bash
 const arrayMethods = require('array-methods-package');
